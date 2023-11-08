@@ -1,4 +1,4 @@
-A Gopuff clone is a readymade e-commerce script that allows anyone to develop an on-demand delivery platform similar to Gopuff with minimum efforts and cost. Zipprr provides a fully customizable <a href="https://zipprr.com/category/gopuff-clone/">Gopuff clone script</a> that can be white labeled to create your own on-demand grocery delivery marketplace.
+A Gopuff clone is a readymade e-commerce script that allows anyone to develop an on-demand delivery platform similar to Gopuff with minimum efforts and cost. Zipprr provides a fully customizable <a href="https://zipprr.com/gopuff-clone/">Gopuff clone script</a> that can be white labeled to create your own on-demand grocery delivery marketplace.
 
 <h2><b>Essential Features</b></h2>
 
